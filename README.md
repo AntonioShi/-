@@ -1,2 +1,2 @@
-# -
+# -NewsManageSystem
 javaEE + mysql
